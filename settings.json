@@ -1,0 +1,8 @@
+{
+    "sqlConfig":{
+        "host"     : "khadija-be.bgeso-pedagogique.fr",
+        "user"     : "bgeso31_khadija-be_dbu",
+        "password" : "KhaBej31!!",
+        "database" : "bgeso31_khadija-be_db"
+    }
+}
